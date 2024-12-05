@@ -4,7 +4,8 @@ This repository contains the implementation of the **Stochastic Series Expansion
 Note: This code is an extension to this paper.
 
 The original code can be found from repository.
-**[Title of Your Paper](https://arxiv.org/abs/2307.14254)**.
+**[Deconfined pseudocriticality in a model spin-1 quantum antiferromagnet
+](https://arxiv.org/abs/2307.14254)**.
 
 ## Features
 
